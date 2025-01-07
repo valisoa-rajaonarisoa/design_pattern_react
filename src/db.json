@@ -9,12 +9,5 @@
       "nom": "terrain"
     }
   ],
-  "articles": [
-    {
-      "id": "5d92",
-      "title": "rien ",
-      "prix": "4",
-      "categorie": "61c0"
-    }
-  ]
+  "articles": []
 }
